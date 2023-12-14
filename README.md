@@ -6,5 +6,6 @@ There are 3 cpp files.
 - KC: The first iteration of the scheduler. Allows the user to pick which scheduler to run EXCEPT RR. Buggy.
 - reconstruKction - The second iteration of the scheduler. Allows the user to pick which scheduler to run.
 - indiscipline - The round-robin only version. allows the user to enter a time quantum in increments of 5.
+KC and reconstruKction uses joblist.csv and indiscipline uses g6.csv.
 # Doubts
 Now im not sure if any of these are correct. The lecturer did not send a correct version (neither did she correct us) but based on my intuition and studies it should be correct. Someone else's code might be more correct than mine, especially the SJN and RR algos.
